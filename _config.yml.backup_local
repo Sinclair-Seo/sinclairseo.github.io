@@ -30,7 +30,7 @@ twitter_username: sinclairseo
 github_username:  sinclair-seo
 
 # Build settings
-remote_theme: "mmistakes/minimal-mistakes@4.17.2"
+theme: minimal-mistakes-jekyll
 
 # Exclude from processing.
 # The following items will not be processed, by default.
